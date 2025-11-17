@@ -6,6 +6,11 @@ Components, Zustand for state management (with `persist` to `localStorage`), and
 
 This project started from `create-next-app` and has been adapted for the stories feature.
 
+[Demo link](https://stories-feature-eosin.vercel.app)
+---
+[Project URL](https://roadmap.sh/projects/stories-feature)
+---
+
 ## Overview
 
 - Tech stack
